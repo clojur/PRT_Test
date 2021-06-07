@@ -199,6 +199,7 @@ void main()
     }
    
    // HDR tonemapping and gamma correct
+   result -= ambient;
    result = result / (result + vec3(1.0));
    //result = pow(result, vec3(1.0/2.2)); 
    FragColor = vec4(result, 1.0);
