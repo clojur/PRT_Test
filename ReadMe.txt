@@ -11,6 +11,6 @@ PageUp/PageDown键：调整光源强弱
 
 ## ScreenShots
 
-![image](./ssImage/1.png)
-![image](./ssImage/2.png)
-![image](./ssImage/3.png)
+![image](https://github.com/clojur/PRT_Test/blob/main/ssImage/1.png)
+![image](https://github.com/clojur/PRT_Test/blob/main/ssImage/2.png)
+![image](https://github.com/clojur/PRT_Test/blob/main/ssImage/3.png)
