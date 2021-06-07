@@ -1,9 +1,16 @@
-cmake��getting_started__GIApplication��Ϊ������Ŀ����release�����У����̰������ƿ������£�
-�ո��Ƿ���ʾֱ����Ӱ
-��ctrl���Ƿ���ӰЧ�����õ�probe
-Tab���Ƿ�ʹ�ö�̬��Դ
-F1���Ƿ���ʾֱ�ӹ���
-F2���Ƿ���ʾProbe
-F3���Ƿ���ʾ��ӹ���
-�������Ҽ���������Դλ��
-PageUp/PageDown����������Դǿ��
+# keyMapping
+cmake后将getting_started__GIApplication设为启动项目，在release下运行，键盘按键控制开关如下：
+空格：是否显示直接阴影
+左ctrl：是否将阴影效果作用到probe
+Tab：是否使用动态光源
+F1：是否显示直接光照
+F2：是否显示Probe
+F3：是否显示间接光照
+上下左右键：调整光源位置
+PageUp/PageDown键：调整光源强弱
+
+# ScreenShots
+
+![1](./ssImage/1.png)
+![1](./ssImage/2.png)
+![1](./ssImage/3.png)
