@@ -1,4 +1,4 @@
-
+# 操作
 cmake后将getting_started__GIApplication设为启动项目，在release下运行，键盘按键控制开关如下：
 空格：是否显示直接阴影
 左ctrl：是否将阴影效果作用到probe
